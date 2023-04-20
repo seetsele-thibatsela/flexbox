@@ -6,6 +6,7 @@
   
   .menu-container {
     display: flex;
+    justify-content: center;
     color: #fff;
     background-color: #5995DA;  /* Blue */
     padding: 20px 0;
