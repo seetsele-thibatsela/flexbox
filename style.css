@@ -18,8 +18,9 @@
   justify-content: space-between;
 }
 
-.signup {
-  margin-left: auto;
+.links {
+  display: flex;
+  justify-content: flex-end;
 }
 
 .login {
